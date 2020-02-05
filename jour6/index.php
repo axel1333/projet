@@ -11,7 +11,7 @@
 
     <header>
 
-            <h1> La meilleure page !!  </h1>
+            <h1> La meilleure pages !!  </h1>
 
     <nav>
             <a href="index.php">accueil</a>
