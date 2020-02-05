@@ -1,6 +1,8 @@
+<section> 
 
-<section>
-    <h2>ACCUEIL</h2>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium illum, eligendi sint officiis hic quia consequuntur possimus consectetur repellendus non corporis fugiat error ducimus neque provident voluptatum quidem sequi temporibus?</p>
-    <img src="assets/img/fleur.jpg" alt="fleur">
-</section>
+    <h2> Tinquiete pas le site va devenir unique , ce n'est qu'une question de temps </h2>
+
+    <p> Deuxième ligne du meilleure site  </p>
+
+
+    </section>
